@@ -20,6 +20,7 @@
     "extends": "react-app"
   },
   "browserslist": {
+    "homepage": "./",
     "production": [
       ">0.2%",
       "not dead",
